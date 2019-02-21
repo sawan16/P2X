@@ -12,7 +12,7 @@ Require python 3.5 or above.
 
 1. Clone or Download from the Github.
 2. Unzip the folder.
-3. From the ternimal
+3. From the ternimal \n
    3.1 Jump to the p2x folder
    3.2 pip install Updated_lark.zip  #Install Updated Lark Parser. Have a look at https://github.com/lark-parser/ for more information.
    3.3 Now lark is installed.
