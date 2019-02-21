@@ -18,7 +18,8 @@ Require python 3.5 or above.
    3.3 Now lark is installed.
    3.4 test.py file is given which contains example python code.
    3.5 How to Run: python demo.py test.py xml_data.xml
-   # XML generated code saved into xml_data.xml file. Open the xml file in web browser for better visualization.
-   # Based on requirement change the demo file.
+ 
+XML generated code saved into xml_data.xml file. Open the xml file in web browser for better visualization.
+Based on requirement change the demo file. Keep the python3.lark file parallel to demo.py for simplicity.
    
    
