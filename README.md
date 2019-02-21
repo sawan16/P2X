@@ -12,12 +12,12 @@ Require python 3.5 or above.
 
 1. Clone or Download from the Github.
 2. Unzip the folder.
-3. From the ternimal \n
-   3.1 Jump to the p2x folder
-   3.2 pip install Updated_lark.zip  #Install Updated Lark Parser. Have a look at https://github.com/lark-parser/ for more information.
-   3.3 Now lark is installed.
-   3.4 test.py file is given which contains example python code.
-   3.5 How to Run: python demo.py test.py xml_data.xml
+# From the ternimal
+3. Jump to the p2x folder
+4. pip install Updated_lark.zip  #Install Updated Lark Parser. Have a look at https://github.com/lark-parser/ for more information.
+   Now lark is installed.
+5. test.py file is given which contains example python code.
+6. How to Run: python demo.py test.py xml_data.xml
  
 XML generated code saved into xml_data.xml file. Open the xml file in web browser for better visualization.
 Based on requirement change the demo file. Keep the python3.lark file parallel to demo.py for simplicity.
