@@ -14,10 +14,11 @@ Require python 3.5 or above.
 2. Unzip the folder.
 ## From the ternimal
 3. Jump to the p2xmlGen folder
-4. pip install Updated_lark.zip  #Install Updated Lark Parser. Have a look at https://github.com/lark-parser/ for more information.
+4. $pip install Updated_lark.zip  #Install Updated Lark Parser. Have a look at https://github.com/lark-parser/ for more information.
    Now lark is installed.
 5. test.py file is given which contains example python code.
-6. How to Run: python demo.py test.py xml_data.xml
+6. How to Run:
+   $python demo.py <input.py> <output.xml>
  
 XML generated code saved into xml_data.xml file. Open the xml file in web browser for better visualization.
 Based on requirement change the demo file. Keep the python3.lark file parallel to demo.py for simplicity.
